@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahahmet&label=Profile%20views&color=0e75b6&style=flat" alt="ahahmet" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahahmet" alt="ahahmet" /></a> </p>
-
 - 🌱 I’m currently learning **CMake**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahahmet](https://github.com/ahahmet)
